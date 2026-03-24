@@ -14,7 +14,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 //stampiamo numeri da 1 a 100
 for (let i = 1; i <= 100; i++) {
 
-    // se i dividiamo 3 da 0 vuol dire che
+    // se mi da resto di 0 vuol dire che è un multiplo
     //se sono multipli di 3 e 5
     if ((i % 3 === 0) && (i % 5 === 0)) {
 
